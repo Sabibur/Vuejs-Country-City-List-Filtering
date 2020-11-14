@@ -1,0 +1,115 @@
+[{
+    "id":0, 
+    "country": "Portugal",
+    "city": "Fonte da Vaca",
+    "description": "Toxic effect of carbon disulfide, self-harm, init"
+  },
+  {
+    "id":1, 
+    "country": "Russia",
+    "city": "Taksimo",
+    "description": "Open bite of unsp front wall of thorax w penet thor cavity"
+  },
+  {
+    "id":2, 
+    "country": "Kenya",
+    "city": "Litein",
+    "description": "Derangement of unsp meniscus due to old tear/inj, unsp knee"
+  },
+  {
+    "id":3, 
+    "country": "Sweden",
+    "city": "Stockholm",
+    "description": "Enteroviral meningitis"
+  },
+  {
+    "id":4, 
+    "country": "Brazil",
+    "city": "Cristalina",
+    "description": "Foster-Kennedy syndrome"
+  },
+  {
+    "id":5, 
+    "country": "Russia",
+    "city": "Velikiy Novgorod",
+    "description": "Edema of larynx"
+  },
+  {
+    "id":6, 
+    "country": "Russia",
+    "city": "Nogliki",
+    "description": "Vestibular neuronitis, bilateral"
+  },
+  {
+    "id":7, 
+    "country": "Indonesia",
+    "city": "Karanganyar",
+    "description": "Nondisp fx of dist pole of navic bone of l wrs, 7thD"
+  },
+  {
+    "id":8, 
+    "country": "Sweden",
+    "city": "Haninge",
+    "description": "Other specified joint disorders, right hand"
+  },
+  {
+    "id":9, 
+    "country": "Indonesia",
+    "city": "Atengmelang",
+    "description": "Dislocation of distal interphaln joint of r rng fngr, subs"
+  },
+  {
+    "id":10, 
+    "country": "Indonesia",
+    "city": "Kalangsari",
+    "description": "Extrinsic cartilagenous obst of eustach tube, bilateral"
+  },
+  {
+    "id":11, 
+    "country": "Indonesia",
+    "city": "Kotabunan",
+    "description": "Other superficial injuries of other fingers"
+  },
+  {
+    "id":12, 
+    "country": "Russia",
+    "city": "Tyazhinskiy",
+    "description": "External constriction of unspecified thumb, sequela"
+  },
+  {
+    "id":13, 
+    "country": "Portugal",
+    "city": "Sá",
+    "description": "Discitis, unspecified, lumbosacral region"
+  },
+  {
+    "id":14, 
+    "country": "Brazil",
+    "city": "Itambé",
+    "description": "Nondisp fx of lateral condyle of unsp femur, init"
+  },
+  {
+    "id":15, 
+    "country": "Indonesia",
+    "city": "Bintang",
+    "description": "Other juvenile arthritis, unspecified hip"
+  },
+  {
+    "id":16, 
+    "country": "Indonesia",
+    "city": "Warungsugan",
+    "description": "Displ commnt fx shaft of l fibula, 7thH"
+  },
+  {
+    "id":17, 
+    "country": "Indonesia",
+    "city": "Ratilangi",
+    "description": "Acute angle-closure glaucoma, left eye"
+  },
+  {
+    "id":18, 
+    "country": "Portugal",
+    "city": "Alcainça",
+    "description": "Unspecified mastoiditis, bilateral"
+  }
+]
